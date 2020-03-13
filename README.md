@@ -1,1 +1,2 @@
-# trabajos-nuevas-tecnicas1
+# Trabajos de nuevas técnicas de programación
+Nombre: Bolívar Moncayo
